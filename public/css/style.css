@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(230, 230, 253);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+    background-color: rgb(4, 108, 255);
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    border-radius: 5px;
+    
+}
+
+p{
+    color: black;
+    text-align: center;
+    padding-top: 2rem;
+    font-style: italic;
+}
+
+#cadastro1{
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    color: white;
+    background-color: rgb(2, 2, 130);
+    border: none;
+    border-radius: 10px;
+}
+
+#cadastro2{
+    display: block;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 1rem;
+    color: white;
+    background-color: rgb(2, 2, 130);
+    border: none;
+    border-radius: 10px;
+}
